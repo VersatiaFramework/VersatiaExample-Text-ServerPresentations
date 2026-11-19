@@ -1,0 +1,9 @@
+name: VersatiaExample-Text-ServerPresentations-Provider
+version: '${version}'
+main: dev.versatia.example.serverpresentations.ProviderPlugin
+api-version: '26.3'
+author: Versatia
+description: Decides how a player appears in the messages of every plugin on the server.
+# Kotlin classes come from VersatiaCore's class loader; do not list kotlin-stdlib here
+depend:
+  - VersatiaCore

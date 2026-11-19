@@ -1,0 +1,3 @@
+# The hover of every player name on the server. It inserts {name}, never {player}: the player's
+# own presentation is this card, which would show itself again inside itself.
+card: "<neutral>{name}, rank {rank}"

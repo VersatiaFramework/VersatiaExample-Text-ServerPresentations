@@ -1,0 +1,9 @@
+name: VersatiaExample-Text-ServerPresentations-Consumer
+version: '${version}'
+main: dev.versatia.example.serverpresentations.consumer.ConsumerPlugin
+api-version: '26.3'
+author: Versatia
+description: Shows players in its messages, as the server presents them.
+# Kotlin classes come from VersatiaCore's class loader; do not list kotlin-stdlib here
+depend:
+  - VersatiaCore

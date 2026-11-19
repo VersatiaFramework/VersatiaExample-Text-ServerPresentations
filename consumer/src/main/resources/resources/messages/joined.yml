@@ -1,0 +1,2 @@
+# {player} is the card the provider gives every player; {player.rank} exists while the provider runs
+joined: "<neutral>{player} joined, rank {player.rank}."
